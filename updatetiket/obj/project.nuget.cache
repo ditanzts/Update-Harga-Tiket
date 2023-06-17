@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "gNk0+CWpu4IJiZxJhoyyrrpLa9wDDdLV6p5HVFTls9gOdcp4l4k6FBkMafjonnV2C02TR3ksGXfiXPLWUQaGXQ==",
+  "success": true,
+  "projectFilePath": "E:\\apps pt 2\\data vs code 2022\\repos\\updatetiket\\updatetiket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows 10\\.nuget\\packages\\ado.net.client.annotations\\1.2.0\\ado.net.client.annotations.1.2.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\ado.net.client.core\\1.4.5\\ado.net.client.core.1.4.5.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\Windows 10\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
